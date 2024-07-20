@@ -1,9 +1,13 @@
 # AI_Cancer
 
 1- Clasificación (CNN normal)
+
 2- Bounding Box (YOLO)
+
 3- Segmentación (UNET)
+
 Tasks (a escoger):
+
 
 Implementar YOLO desde 0 para entender cómo funciona (con un dataset de juguete)
 Implementar UNET desde 0 para entender cómo funciona (con un dataset de juguete)
